@@ -1,25 +1,18 @@
 #!/bin/bash
 
 cat<<"EOF"
-██
-██
-██
-███████████
-██       ██
-██       ██
-██       ██
-[username] - [hostname]
-OS: [linuxdistro] [x86/x64/arm64]
-Kernel: [linuxkernel]
-System Init: [systemd/openrc/runit]
-Shell: [bash/fish]
-DE: [yourde]
-WM: [yourwm]
-LM: [yourlm]
-Version: [sources]
-----------
-Host: [yourpc]
-CPU: [yourcpu]
-GPU: [yourgpu]
-RAM: [ramsize]
+██          [username] - [hostname]
+██          OS: hinnkaDistro x64
+██          Kernel: [linuxkernel]
+███████████ System Init: [systemd/openrc/runit]
+██       ██ Shell: [bash/fish]
+██       ██ DE: [yourde]
+██       ██ WM: [yourwm]
+            LM: [yourlm]
+            Version: oldfetch-hinnkadistro-1.1
+            ----------
+            Host: [yourpc]
+            CPU: [yourcpu]
+            GPU: [yourgpu]
+            RAM: [ramsize]
 EOF
