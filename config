@@ -1,0 +1,14 @@
+[username] - [hostname]
+OS: hinnkaDistro x64
+Kernel: [linuxkernel]
+System Init: systemd
+Shell: [bash/fish]
+DE: [yourde]
+WM: [yourwm]
+LM: [yourlm]
+Version: oldfetch-hinnkadistro-1.1
+----------
+Host: [yourpc]
+CPU: [yourcpu]
+GPU: [yourgpu]
+RAM: [ramsize]
