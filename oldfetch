@@ -4,7 +4,7 @@ cat<<"EOF"
 ██          [username] - [hostname]
 ██          OS: hinnkaDistro x64
 ██          Kernel: [linuxkernel]
-███████████ System Init: [systemd/openrc/runit]
+███████████ System Init: systemd
 ██       ██ Shell: [bash/fish]
 ██       ██ DE: [yourde]
 ██       ██ WM: [yourwm]
